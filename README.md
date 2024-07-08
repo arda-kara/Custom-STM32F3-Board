@@ -11,7 +11,7 @@
 
 ## Project Overview
 
-This project focuses on designing a custom PCB powered by the STM32F103C8T6 ARM chip. It features RS232, USB, 2xADC, and 4xDAC headers. The remaining pins are configurable as GPIO.
+This project focuses on designing a custom 2 layer PCB powered by the STM32F103C8T6 ARM chip. It features RS232, USB, 2xADC, and 4xDAC headers. The remaining pins are configurable as GPIO.
 
 ## Table of Contents
 
