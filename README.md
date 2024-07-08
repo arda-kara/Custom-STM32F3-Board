@@ -23,6 +23,7 @@ This project focuses on designing a custom 2 layer PCB powered by the STM32F103C
 - [Usage](#usage)
   - [Opening the Project](#opening-the-project)
   - [Design Workflow](#design-workflow)
+- [Programming](#programming)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -74,6 +75,9 @@ This repository includes all necessary files and documentation to design a custo
 3. **Routing**: Connect the components with traces.
 4. **Validation**: Run design rule checks to ensure the design meets all requirements.
 5. **Fabrication Outputs**: Generate Gerber files and other outputs for manufacturing.
+
+## Programming
+To program the board, an ST-LINK will be enough to flash via SWD.
 
 ## Contributing
 
